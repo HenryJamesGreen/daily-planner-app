@@ -28,3 +28,12 @@ function displayHours() {
   });
 }
 displayHours();
+
+$(".saveBtn").on("click", function () {
+  let eventHour = $(this).parent().attr("id");
+  let eventText = $(this).siblings(".description").val();
+
+  
+  localStorage.setItem("todaysTasks", JSON.stringify(eventText));
+  $("#todaysTasks").text(eventText);
+});
