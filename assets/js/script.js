@@ -4,7 +4,7 @@ $("#currentDay").text(date);
 
 //current time check
 const CurrentTime = moment().hour();
-console.log(CurrentTime);
+//console.log(CurrentTime);
 
 function displayHours() {
   // run through time-blocks, grab the id and set it to a number value to run through the if statemnet.
@@ -54,6 +54,7 @@ function getItem() {
 
 getItem();
 
+//clear local storage and text in the description classes.
 $("#clear").on("click", function () {
   localStorage.clear();
   $(".description").val("");
