@@ -56,5 +56,5 @@ getItem();
 
 $("#clear").on("click", function () {
   localStorage.clear();
-  $(".description").text("");
+  $(".description").val("");
 });
