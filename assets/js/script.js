@@ -9,7 +9,7 @@ console.log(CurrentTime);
 function displayHours() {
   // run through time-blocks, grab the id and set it to a number value to run through the if statemnet.
   $(".time-block").each(function () {
-    var hourSlot = parseInt($(this).attr("id"));
+    const hourSlot = parseInt($(this).attr("id"));
 
     //add classes to change BG properties. REMEMBER - also remove classes, to prevent confusion!
     if (hourSlot < CurrentTime) {
