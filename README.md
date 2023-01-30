@@ -6,3 +6,5 @@ https://www.w3schools.com/jsref/jsref_split.asp
 https://fontawesome.com/v5/icons/save?s=solid&f=classic
 https://getbootstrap.com/docs/4.1/layout/grid/
 https://getbootstrap.com/docs/5.2/layout/grid/
+https://stackoverflow.com/questions/10710674/how-to-remove-and-clear-all-localstorage-data
+
