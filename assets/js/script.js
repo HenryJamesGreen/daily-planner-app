@@ -64,4 +64,5 @@ getItem();
 $("#clear").on("click", function () {
   localStorage.clear();
   $(".description").val("");
+  alert("Events cleared!");
 });
