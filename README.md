@@ -2,7 +2,7 @@
 
 ## A daily planner application, made using jQuery
 
-This project is a daily planner. It is a very simple and effective tool, which will continue to display events upon refresh, and features a handy button to clear events at the end of a working day.
+This project is a daily planner. It is a very simple and effective tool, which continues to display events upon refresh, and features a handy button to clear events at the end of a working day.
 
 Please see below for a number of screenshots, displaying the app's functionality:
 
