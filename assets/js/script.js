@@ -35,7 +35,7 @@ $(".saveBtn").on("click", function () {
   let eventText = $(this).siblings(".description").val();
 
   //alert user if mistakenly left empty string.
-  if (eventText === " ") {
+  if (eventText === "" || eventText === " ") {
     alert("Try again!");
   } else {
     //add to local storage.
