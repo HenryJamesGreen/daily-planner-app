@@ -22,7 +22,7 @@ N/A
 
 ## Usage
 
-Wesbite link:
+Wesbite link: https://henryjamesgreen.github.io/daily-planner-app/
 
 You can test the planner by performing the following tasks:
 
