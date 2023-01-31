@@ -39,6 +39,17 @@ w3:
 - https://www.w3schools.com/jsref/jsref_split.asp
 - https://www.w3schools.com/cssref/css3_pr_align-items.php
 - https://www.w3schools.com/jsref/met_node_appendchild.asp
+- https://www.w3schools.com/jquery/jquery_traversing_filtering.asp
+
+jQuery help:
+
+- https://api.jquery.com/event.target/
+- https://jqueryui.com/accordion/#collapsible
+
+moment.js:
+
+- https://momentjs.com/docs/#/displaying/
+-
 
 Developer.Mozilla:
 
@@ -52,6 +63,7 @@ Bootstrap:
 
 - https://getbootstrap.com/docs/4.1/layout/grid/
 - https://getbootstrap.com/docs/5.2/layout/grid/
+- https://getbootstrap.com/docs/4.5/content/tables/
 
 Stack Overflow:
 
@@ -60,6 +72,14 @@ Stack Overflow:
 Meetanshi:
 
 - https://meetanshi.com/blog/reload-current-page-without-losing-any-form-data-in-javascript/
+
+Youtube:
+
+- https://www.youtube.com/watch?v=fYTTUBa-lPc
+
+CSS Tricks:
+
+- https://css-tricks.com/everything-you-need-to-know-about-date-in-javascript/
 
 ## License
 
