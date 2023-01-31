@@ -49,7 +49,6 @@ jQuery help:
 moment.js:
 
 - https://momentjs.com/docs/#/displaying/
--
 
 Developer.Mozilla:
 
