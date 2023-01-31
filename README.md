@@ -6,7 +6,7 @@ This project is a daily planner. It is a very simple and effective tool, which w
 
 Please see below for a number of screenshots, displaying the app's functionality:
 
-![](screengrab1.png)  
+![main](screengrab1.png)  
 ![](screengrab2.png)  
 ![](screengrab3.png)  
 ![](screengrab4.png)  
