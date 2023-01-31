@@ -7,7 +7,7 @@ const CurrentTime = moment().hour();
 //console.log(CurrentTime);
 
 function displayHours() {
-  // run through time-blocks, grab the id and set it to a number value to run through the if statemnet.
+  // run through time-blocks, grab the id and set it to a number value to run through the if statement.
   $(".time-block").each(function () {
     const hourSlot = parseInt($(this).attr("id"));
 
@@ -34,9 +34,15 @@ $(".saveBtn").on("click", function () {
   let eventHour = $(this).parent().attr("id");
   let eventText = $(this).siblings(".description").val();
 
-  localStorage.setItem(eventHour, eventText);
-  //add alert to notify user
-  alert("Event saved!");
+  //alert user if mistakenly left empty string.
+  if (eventText === " ") {
+    alert("Try again!");
+  } else {
+    //add to local storage.
+    localStorage.setItem(eventHour, eventText);
+    //add alert to notify user.
+    alert("Event saved!");
+  }
 });
 
 function getItem() {
