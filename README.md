@@ -2,17 +2,17 @@
 
 ## A daily planner application, made using jQuery
 
-This project is a daily planner. It is a very simple and effective tool, which will continue to display upon refresh, and features a handy tool to clear events at the end of a working day.
+This project is a daily planner. It is a very simple and effective tool, which will continue to display events upon refresh, and features a handy button to clear events at the end of a working day.
 
 Please see below for a number of screenshots, displaying the app's functionality:
 
-![](screengrab1.png)  
+![](screengrab1.png)
 
-![](screengrab2.png)  
+![](screengrab2.png)
 
-![](screengrab3.png)  
+![](screengrab3.png)
 
-![](screengrab4.png)  
+![](screengrab4.png)
 
 ![](screengrab5.png)
 
@@ -24,9 +24,9 @@ N/A
 
 Wesbite link:
 
-You can test the planner by doijng the following:
+You can test the planner by performing the following tasks:
 
-- To use the planner, simply input any events needed that day. An alert will pop up to indicate your events are saved to local storage, and displayed on the planner.
+- To use the planner, simply input any events needed that day. An alert will pop up to indicate your events are saved to local storage, and will be displayed on the planner.
 - If you enter an empty field, you will be alerted to 'try again!'. this will not save any data.
 - To inspect the local storage, simply access the 'inspect' tool (by pressing command+Option+I (macOS) or Control+Shift+I (Windows)), and click on 'application'. There you will find your stored events for the day.
 - You can try refreshing the page. They are still there!
